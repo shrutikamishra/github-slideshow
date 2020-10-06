@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+spooky scary skeletons
 Use the left arrow to go back!
